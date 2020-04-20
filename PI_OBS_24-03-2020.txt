@@ -1,0 +1,25 @@
+1. Pré requisitos - 998092393
+
+2. Downloads
+  2.1 MySQL Community Server
+    Versão: SGBD MySql 5.7 Instalado
+    Porta: 3306
+    Usuário: root
+    Senha: root
+
+  2.2 MySQL Workbench
+  2.3 Connector/J
+
+3. Padrão de projetos utilizado MVC (Model-View-Controller)
+
+4. DAO - Data Access Object
+
+5. Qual a função do pacote dentro da aplicação Java? A função do pacote dentro da aplicação Java é separar logicamente-funcional as classes em relação à sua aplicacabilidade.
+Exemplo: modelo -> É colocado às classes que representam as entidades do banco de dados
+
+6. Atividade - Crie as classes:
+
+Professor(matricula, nome, sobrenome, habilitacao)
+Materia(codigo, descricao, creditos)
+Curso(codigo, nome, habilitacao, tempo)
+Notas(nota1, nota2, media)
